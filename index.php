@@ -22,3 +22,4 @@
 
 
 /* EXERCISE 4 */
+    // Créer une variable simple booléenne ayant pour valeur 0
